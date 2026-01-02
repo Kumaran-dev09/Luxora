@@ -38,35 +38,33 @@ This is a **frontend-only project** created for learning and portfolio purposes.
 -  Admin dashboard for menu & order management
 -  Multi-language support
 
-
-## ⚠️ Limitations
-
-- No mobile/tablet responsiveness  
-- No backend or API integration  
-- No payment gateway  
-- No authentication  
+---
+## Netfliy Live Demo https://luxora-restaurant.netlify.app
 
 ---
+## ⚠️ Project Scope & Limitations
 
+This is a *frontend-only React project* built for learning and portfolio demonstration.
+
+Intentionally not included:
+- Backend / API integration
+- Authentication
+- Payments
+- Mobile responsiveness
+
+The focus is on *UI design, React fundamentals, and state management*, not production deployment.
+
+---
 ## 🧪 Run Locally
 
-```bash
 git clone https://github.com/your-username/luxora.git
 cd luxora
 npm install
 npm run dev
 
-
 ---
+## 👨‍💻 Author
+*Kumaran*  
+Java Full Stack Developer (Fresher) | Currently Learning & Building Projects
 
-### Brutally honest note (important 👇)
-- This README is **perfect for a fresher / learner portfolio**
-- You did the right thing **by clearly mentioning limitations**
-- Don’t add fake “full stack” or “production ready” claims — recruiters hate that
-
-If you want next:
-- **GitHub profile bio**
-- **Resume project description**
-- **How to explain this project in interviews**
-
-Tell me.
+This project is part of my frontend portfolio.
